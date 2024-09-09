@@ -15,7 +15,7 @@ namespace API.Data
                     Name = "Senior Rabbit Pellets",
                     Description =
                         "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-                    Price = 20000,
+                    Price = 2999,
                     PictureUrl = "/images/products/senior-rabbit-pellets.png",
                     Brand = "Oxbow",
                     Type = "Pellets",
@@ -25,7 +25,7 @@ namespace API.Data
                 {
                     Name = "Young Rabbit Pellets",
                     Description = "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-                    Price = 15000,
+                    Price = 2999,
                     PictureUrl = "/images/products/young-rabbit-pellets.png",
                     Brand = "Oxbow",
                     Type = "Pellets",
@@ -36,7 +36,7 @@ namespace API.Data
                     Name = "Adult Rabbit Pellets",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-                    Price = 18000,
+                    Price = 2999,
                     PictureUrl = "/images/products/adult-rabbit-pellets.png",
                     Brand = "Oxbow",
                     Type = "Pellets",
@@ -47,7 +47,7 @@ namespace API.Data
                     Name = "Junior Rabbit Food",
                     Description =
                         "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-                    Price = 30000,
+                    Price = 2699,
                     PictureUrl = "/images/products/junior-rabbit-food.png",
                     Brand = "Science Selective",
                     Type = "Pellets",
@@ -58,7 +58,7 @@ namespace API.Data
                     Name = "Adult Rabbit Food",
                     Description =
                         "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-                    Price = 25000,
+                    Price = 2299,
                     PictureUrl = "/images/products/adult-rabbit-food.png",
                     Brand = "Science Selective",
                     Type = "Pellets",
@@ -69,7 +69,7 @@ namespace API.Data
                     Name = "Oaten Hay",
                     Description =
                         "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-                    Price = 12000,
+                    Price = 1499,
                     PictureUrl = "/images/products/oaten-hay.png",
                     Brand = "Self-Grown",
                     Type = "Hay",
@@ -80,7 +80,7 @@ namespace API.Data
                     Name = "Teff Hay",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-                    Price = 1000,
+                    Price = 1199,
                     PictureUrl = "/images/products/teff-hay.png",
                     Brand = "Self-Grown",
                     Type = "Hay",
@@ -91,7 +91,7 @@ namespace API.Data
                     Name = "Lucerne Hay",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-                    Price = 8000,
+                    Price = 1250,
                     PictureUrl = "/images/products/lucerne-hay.png",
                     Brand = "Self-Grown",
                     Type = "Hay",
@@ -102,7 +102,7 @@ namespace API.Data
                     Name = "Timothy Hay",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-                    Price = 1500,
+                    Price = 14400,
                     PictureUrl = "/images/products/timothy-hay.png",
                     Brand = "Oxbow",
                     Type = "Hay",
@@ -113,7 +113,7 @@ namespace API.Data
                     Name = "Orchard Grass Hay",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-                    Price = 1800,
+                    Price = 14400,
                     PictureUrl = "/images/products/orchard-grass-hay.png",
                     Brand = "Oxbow",
                     Type = "Hay",
@@ -124,7 +124,7 @@ namespace API.Data
                     Name = "Joint Support Cookies",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-                    Price = 1500,
+                    Price = 2150,
                     PictureUrl = "/images/products/joint-support.png",
                     Brand = "Oxbow",
                     Type = "Treats",
@@ -135,7 +135,7 @@ namespace API.Data
                     Name = "Urinary Support Cookies",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-                    Price = 1600,
+                    Price = 2150,
                     PictureUrl = "/images/products/urinary-support.png",
                     Brand = "Oxbow",
                     Type = "Treats",
@@ -146,7 +146,7 @@ namespace API.Data
                     Name = "Vitamin C Cookies",
                     Description =
                         "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-                    Price = 1400,
+                    Price = 2150,
                     PictureUrl = "/images/products/vitamin-c.png",
                     Brand = "Oxbow",
                     Type = "Treats",
@@ -157,7 +157,7 @@ namespace API.Data
                     Name = "Digestive Support Cookies",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-                    Price = 25000,
+                    Price = 2150,
                     PictureUrl = "/images/products/digestive-support.png",
                     Brand = "Oxbow",
                     Type = "Treats",
@@ -168,7 +168,7 @@ namespace API.Data
                     Name = "Slicker Brush",
                     Description =
                         "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-                    Price = 18999,
+                    Price = 699,
                     PictureUrl = "/images/products/brush.png",
                     Brand = "Others",
                     Type = "Accessories",
@@ -179,7 +179,7 @@ namespace API.Data
                     Name = "Nail Clipper",
                     Description =
                         "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-                    Price = 19999,
+                    Price = 895,
                     PictureUrl = "/images/products/nail-clipper.png",
                     Brand = "Others",
                     Type = "Accessories",
@@ -189,7 +189,7 @@ namespace API.Data
                 {
                     Name = "Water Bottle",
                     Description = "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-                    Price = 15000,
+                    Price = 650,
                     PictureUrl = "/images/products/water-bottle.png",
                     Brand = "Others",
                     Type = "Accessories",
@@ -200,7 +200,7 @@ namespace API.Data
                     Name = "Toilet Litter Box",
                     Description =
                         "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-                    Price = 18000,
+                    Price = 2850,
                     PictureUrl = "/images/products/toilet.png",
                     Brand = "Others",
                     Type = "Accessories",
