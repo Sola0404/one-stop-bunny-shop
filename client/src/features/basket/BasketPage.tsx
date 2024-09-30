@@ -16,6 +16,7 @@ import { useState } from "react";
 import agent from "../../app/api/agent";
 import { LoadingButton } from "@mui/lab";
 import BasketSummary from "./BasketSummary";
+import { currencyFormat } from "../../app/util/util";
 
 export default function BasketPage() {
 	const { basket, setBasket, removeItem } = useStoreContext();
@@ -89,7 +90,7 @@ export default function BasketPage() {
 									</LoadingButton>
 								</TableCell>
 								<TableCell align="right">
-									${((item.price * item.quantity) / 100).toFixed(2)}
+									{currencyFormat(item.price * item.quantity)}
 								</TableCell>
 								<TableCell align="right">
 									<LoadingButton
