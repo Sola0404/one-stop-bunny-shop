@@ -1,5 +1,6 @@
 import {
 	Box,
+	Button,
 	Grid2,
 	Paper,
 	Table,
@@ -17,6 +18,7 @@ import agent from "../../app/api/agent";
 import { LoadingButton } from "@mui/lab";
 import BasketSummary from "./BasketSummary";
 import { currencyFormat } from "../../app/util/util";
+import { Link } from "react-router-dom";
 
 export default function BasketPage() {
 	const { basket, setBasket, removeItem } = useStoreContext();
@@ -116,6 +118,15 @@ export default function BasketPage() {
 				<Grid2 size={6} />
 				<Grid2 size={6}>
 					<BasketSummary />
+					<Button
+						component={Link}
+						to="/checkout"
+						variant="contained"
+						size="large"
+						fullWidth
+					>
+						Checkout
+					</Button>
 				</Grid2>
 			</Grid2>
 		</>
